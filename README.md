@@ -1,22 +1,15 @@
-# Diligent E-Commerce Data Project
+# Diligent E-Commerce Data Pipeline (A-SDLC Activity)
 
-This repository was created as part of the Diligent A-SDLC Test Activity.
-
+This project demonstrates the A-SDLC workflow using Cursor.  
 It includes:
-- Synthetic e-commerce dataset (5 CSV files)
-- Python loader script to create SQLite database
-- SQL schema and join query examples
 
-## How to Run
+✔ Synthetic e-commerce data (5 CSV files)  
+✔ SQLite database schema  
+✔ Python script to load data into SQLite  
+✔ SQL query joining multiple tables  
+✔ GitHub version control  
 
-### 1. Install dependencies
-pip install pandas
+---
 
-### 2. Load data into SQLite
-python load_data.py
+## 📁 Project Structure
 
-Produces:
-ecommerce.db
-
-### 3. Run SQL queries
-sqlite3 ecommerce.db < sample_query.sql
