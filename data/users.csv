@@ -1,6 +1,6 @@
-user_id,name,email,signup_date
-1,John Carter,john.carter@example.com,2022-01-15
-2,Emily Stone,emily.stone@example.com,2022-03-21
-3,Michael Johnson,mj@example.com,2023-02-10
-4,Anna Lee,anna.lee@example.com,2023-05-01
-5,David Wright,davidw@example.com,2023-06-21
+uid,name,email,address
+1,Ram Kumar,ram@example.com,Hyderabad
+2,Anjali Sharma,anjali@example.com,Mumbai
+3,Arjun Reddy,arjun@example.com,Bengaluru
+4,Meera Singh,meera@example.com,Delhi
+5,Ravi Teja,ravi@example.com,Chennai

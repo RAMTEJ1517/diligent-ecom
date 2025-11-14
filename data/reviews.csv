@@ -1,0 +1,6 @@
+id,product_id,user_id,rating,review
+1,1,1,5,Great product!
+2,2,2,4,Very good laptop
+3,3,3,3,Average quality
+4,4,4,5,Excellent smartwatch
+5,5,1,4,Good camera performance
